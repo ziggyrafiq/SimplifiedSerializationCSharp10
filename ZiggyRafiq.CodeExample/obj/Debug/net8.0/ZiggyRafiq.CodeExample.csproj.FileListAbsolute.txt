@@ -1,0 +1,15 @@
+E:\GitHub\Articles-Posts\C#\SimplifiedSerializationCSharp10\ZiggyRafiq.CodeExample\ZiggyRafiq.CodeExample\bin\Debug\net8.0\ZiggyRafiq.CodeExample.exe
+E:\GitHub\Articles-Posts\C#\SimplifiedSerializationCSharp10\ZiggyRafiq.CodeExample\ZiggyRafiq.CodeExample\bin\Debug\net8.0\ZiggyRafiq.CodeExample.deps.json
+E:\GitHub\Articles-Posts\C#\SimplifiedSerializationCSharp10\ZiggyRafiq.CodeExample\ZiggyRafiq.CodeExample\bin\Debug\net8.0\ZiggyRafiq.CodeExample.runtimeconfig.json
+E:\GitHub\Articles-Posts\C#\SimplifiedSerializationCSharp10\ZiggyRafiq.CodeExample\ZiggyRafiq.CodeExample\bin\Debug\net8.0\ZiggyRafiq.CodeExample.dll
+E:\GitHub\Articles-Posts\C#\SimplifiedSerializationCSharp10\ZiggyRafiq.CodeExample\ZiggyRafiq.CodeExample\bin\Debug\net8.0\ZiggyRafiq.CodeExample.pdb
+E:\GitHub\Articles-Posts\C#\SimplifiedSerializationCSharp10\ZiggyRafiq.CodeExample\ZiggyRafiq.CodeExample\obj\Debug\net8.0\ZiggyRafiq.CodeExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Articles-Posts\C#\SimplifiedSerializationCSharp10\ZiggyRafiq.CodeExample\ZiggyRafiq.CodeExample\obj\Debug\net8.0\ZiggyRafiq.CodeExample.AssemblyInfoInputs.cache
+E:\GitHub\Articles-Posts\C#\SimplifiedSerializationCSharp10\ZiggyRafiq.CodeExample\ZiggyRafiq.CodeExample\obj\Debug\net8.0\ZiggyRafiq.CodeExample.AssemblyInfo.cs
+E:\GitHub\Articles-Posts\C#\SimplifiedSerializationCSharp10\ZiggyRafiq.CodeExample\ZiggyRafiq.CodeExample\obj\Debug\net8.0\ZiggyRafiq.CodeExample.csproj.CoreCompileInputs.cache
+E:\GitHub\Articles-Posts\C#\SimplifiedSerializationCSharp10\ZiggyRafiq.CodeExample\ZiggyRafiq.CodeExample\obj\Debug\net8.0\ZiggyRafiq.CodeExample.sourcelink.json
+E:\GitHub\Articles-Posts\C#\SimplifiedSerializationCSharp10\ZiggyRafiq.CodeExample\ZiggyRafiq.CodeExample\obj\Debug\net8.0\ZiggyRafiq.CodeExample.dll
+E:\GitHub\Articles-Posts\C#\SimplifiedSerializationCSharp10\ZiggyRafiq.CodeExample\ZiggyRafiq.CodeExample\obj\Debug\net8.0\refint\ZiggyRafiq.CodeExample.dll
+E:\GitHub\Articles-Posts\C#\SimplifiedSerializationCSharp10\ZiggyRafiq.CodeExample\ZiggyRafiq.CodeExample\obj\Debug\net8.0\ZiggyRafiq.CodeExample.pdb
+E:\GitHub\Articles-Posts\C#\SimplifiedSerializationCSharp10\ZiggyRafiq.CodeExample\ZiggyRafiq.CodeExample\obj\Debug\net8.0\ZiggyRafiq.CodeExample.genruntimeconfig.cache
+E:\GitHub\Articles-Posts\C#\SimplifiedSerializationCSharp10\ZiggyRafiq.CodeExample\ZiggyRafiq.CodeExample\obj\Debug\net8.0\ref\ZiggyRafiq.CodeExample.dll
